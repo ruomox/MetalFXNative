@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow .gitignore itself
+!.gitignore
+
+# Allow the main directory
+!/MetalFXNative/
+
+# Allow all its contents
+!/MetalFXNative/**
